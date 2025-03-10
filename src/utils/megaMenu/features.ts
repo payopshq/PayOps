@@ -22,9 +22,15 @@ export const featuresMenu = [
       {
         icon: "presentationChart",
         title: "Automated Reports",
-        description: "Generate detailed reports and dashboards in seconds.",
+        description: "Generate detailed reports and dashboards in seconds. No coding required.",
         href: "#",
       },
+      {
+        icon: "dataBase",
+        title: "Data storage",
+        description: "Store and access your data securely with our cloud-based solution.",
+        href: "#",
+      }
     ],
   },
 ];
